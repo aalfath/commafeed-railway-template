@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/commafeed-1?utm_medium=integration&utm_source=button&utm_campaign=commafeed)
+
 # CommaFeed on Railway
 
 Railway template for [CommaFeed](https://github.com/Athou/commafeed), a self-hosted RSS and Atom reader inspired by Google Reader.
