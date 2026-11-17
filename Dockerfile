@@ -1,6 +1,6 @@
 # CommaFeed for Railway: the official native PostgreSQL image, pinned by version and digest.
 # Upstream: https://github.com/Athou/commafeed (image athou/commafeed on Docker Hub)
-FROM athou/commafeed:7.5.0-postgresql@sha256:aac217c3d9b38b5a6185d723b31e8d6dc1acfd9873178c18521ff03a95f92100
+FROM athou/commafeed:7.5.1-postgresql@sha256:2d28874b20d55622ed2ccc10c90606ee68f0493b5d1e1a18753b9cb02a07e250
 
 COPY start.sh /commafeed/railway-start.sh
 
